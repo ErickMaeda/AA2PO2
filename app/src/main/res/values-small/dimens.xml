@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing">12dp</dimen>
+
+    <dimen name="text_view_normal">12sp</dimen>
+    <dimen name="text_view_title">15sp</dimen>
+    <dimen name="text_view_big">22sp</dimen>
+
+</resources>

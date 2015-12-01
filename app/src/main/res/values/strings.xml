@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Criptografias Hash</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="default_type_message">Digite a Mensagem</string>
+    <string name="default_OK">OK</string>
+    <string name="default_error">Erro</string>
+    <string name="default_delete">Deletar</string>
+    <string name="default_clear_screen">Limpar tela</string>
+
+
+
+    <string name="choose_method_encrypty">Escolha o Método de Criptografia Hash: </string>
+    <string name="encrypted_message">Mensagem criptografada em: </string>
+    <string name="cant_be_null">A mensagem não pode ser nula!</string>
+    <string name="choose_one">Escolha o Método!</string>
+
+
+    <!-- Méthods-->
+    <string name="SHA_1">SHA-1</string>
+    <string name="SHA_256">SHA-256</string>
+    <string name="MD5">MD5</string>
+</resources>
